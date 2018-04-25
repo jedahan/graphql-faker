@@ -45,7 +45,7 @@
     "express": "^4.15.4",
     "express-graphql": "github:apis-guru/express-graphql#rootValue_dist",
     "faker": "^4.1.0",
-    "graphql": "github:apis-guru/graphql-js#directives-fork-dist",
+    "graphql": "^0.13.2",
     "lodash": "^4.17.4",
     "moment": "^2.19.3",
     "node-fetch": "^1.7.3",
